@@ -3,7 +3,7 @@
 
 # Files, Exceptions, and Errors in Python.
 
-I learn file handlind and exception handling in tutedude module 10.
+I learn file handlind and exception handling in tutedude python course module 10.
 
 # Task 1
 ===========
